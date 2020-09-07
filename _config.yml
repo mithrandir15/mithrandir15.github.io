@@ -1,4 +1,1 @@
----
-layout: default
----
-remote_theme: the-development/flex
+remote_theme: benbalter/retlab
